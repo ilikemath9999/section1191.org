@@ -1,0 +1,1653 @@
+# section1191.org -- Full Content
+
+This file contains the full text content of all pages on section1191.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Section 1191(a) -- Consensual Subchapter V Plan Confirmation
+Source: https://section1191.org/consensual-plan.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+
+Consensual Plan Confirmation -- Section 1191(a)
+
+When all impaired classes accept, the plan is confirmed consensually. The debtor retains equity without paying unsecured creditors in full.
+
+How Consensual Confirmation Works
+
+Under Section 1191(a), a Subchapter V plan is confirmed consensually when every impaired class of claims has accepted the plan. "Acceptance" means that holders of at least two-thirds in amount and more than one-half in number of the allowed claims in each class have voted to accept.
+
+Classes that are not impaired -- meaning their legal, equitable, and contractual rights are not altered by the plan -- are deemed to have accepted and do not vote.
+
+Key requirement: The plan must satisfy Section 1129(a)(1) through (a)(16), except that no disclosure statement is required (Section 1181(b)). This is one of the major cost savings of Subchapter V.
+
+No Absolute Priority Rule
+
+In traditional Chapter 11, the absolute priority rule requires that senior classes be paid in full before junior classes (including the debtor's equity interest) receive anything. This rule effectively forced small business owners to either pay all unsecured creditors in full or lose their businesses.
+
+Subchapter V eliminates this barrier. Under Section 1181(a), the absolute priority rule of Section 1129(b)(2)(B)(ii) does not apply. This means the debtor retains ownership even if unsecured creditors receive less than full payment.
+
+This is the key advantage of Subchapter V. Small business owners can keep their businesses while restructuring debt -- without the impossible requirement of paying all unsecured creditors 100 cents on the dollar.
+
+Discharge Upon Confirmation
+
+Under 1191(a) consensual confirmation, the debtor receives a broad discharge upon confirmation of the plan. This is the same timing as traditional Chapter 11 -- the discharge enters when the confirmation order becomes effective.
+
+The 1191(a) discharge is broader than the cramdown discharge under 1191(b)/1192:
+
+1191(a): Standard Chapter 11 discharge scope -- most debts discharged
+
+1191(b): Narrower scope -- Section 523(a) exceptions apply (fraud, willful injury, taxes, student loans, etc.)
+
+Important distinction: Because the discharge scope differs significantly, debtors should make every effort to achieve consensual confirmation. If even one impaired class rejects, the plan must proceed under 1191(b) cramdown with its narrower discharge. See section1192.org for details.
+
+Confirmation Requirements
+
+To be confirmed consensually, a Subchapter V plan must satisfy:
+
+The plan complies with applicable provisions of the Bankruptcy Code
+
+The proponent has complied with applicable provisions
+
+The plan was proposed in good faith
+
+Payments for services are subject to court approval
+
+The plan is feasible -- the debtor will likely be able to make all payments
+
+All fees and charges have been paid
+
+All impaired classes have accepted (for consensual confirmation)
+
+No disclosure statement is required. The debtor files the plan and solicits votes directly, saving significant time and legal fees compared to traditional Chapter 11.
+
+See also: Plan content requirements | How voting works
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1192.org -- Cramdown details
+
+chapter13plan.org -- Chapter 13 plan guide
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Section 1191(b) Cramdown -- Nonconsensual Subchapter V Plan
+Source: https://section1191.org/cramdown.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+
+Cramdown -- Section 1191(b)
+
+When creditors reject the plan, the court can still confirm if the debtor commits all projected disposable income for 3-5 years.
+
+When Cramdown Applies
+
+If one or more impaired classes reject the plan, consensual confirmation under 1191(a) is unavailable. The debtor must then seek confirmation under Section 1191(b) -- the cramdown provision.
+
+Cramdown does not require any class to accept. The court confirms the plan over all objections if the requirements are met. However, at least one impaired class must have been given the opportunity to vote.
+
+The Disposable Income Test
+
+The central requirement of 1191(b) cramdown is that the plan must provide that all projected disposable income received during the 3-to-5-year period will be applied to plan payments.
+
+"Projected disposable income" means income less amounts reasonably necessary for:
+
+Maintenance or support of the debtor or dependents
+
+Domestic support obligations
+
+Continuation, preservation, or operation of the business
+
+Key difference from Chapter 13: Subchapter V does not use the means test or IRS expense standards. Courts look at actual projected income and actual reasonable expenses. This gives the court more flexibility and often produces a more realistic budget. See detailed calculation guide.
+
+Fair and Equitable Standard
+
+The plan must be "fair and equitable" with respect to each impaired class that has not accepted. For Subchapter V, this means:
+
+Secured claims: The plan provides for retention of the lien and deferred cash payments totaling at least the allowed secured claim amount
+
+Unsecured claims: The plan commits all projected disposable income (no absolute priority rule)
+
+No unfair discrimination: The plan does not discriminate unfairly among classes of similar priority
+
+Discharge Under Cramdown
+
+The cramdown discharge is narrower and later than the consensual discharge:
+
+Timing: Discharge enters after the debtor completes all plan payments, not upon confirmation
+
+Scope: Section 523(a) exceptions apply -- debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge
+
+This is a significant disadvantage of cramdown. Under consensual confirmation, the debtor gets an immediate, broad discharge. Under cramdown, the debtor must complete years of payments and still faces exceptions to discharge. Negotiate for consensual acceptance whenever possible.
+
+For detailed analysis: section1192.org -- Subchapter V cramdown guide
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1192.org -- Cramdown deep dive
+
+bankruptcyhardship.org -- Hardship discharge
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Discharge -- Section 1192 Timing and Scope
+Source: https://section1191.org/discharge.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+
+Subchapter V Discharge Timing
+
+When the discharge occurs depends on whether the plan was confirmed consensually or through cramdown.
+
+Two Paths to Discharge
+
+The Subchapter V discharge depends entirely on how the plan was confirmed:
+
+Confirmation PathDischarge TimingDischarge Scope
+
+1191(a) -- ConsensualUpon confirmationBroad (standard Ch. 11 scope)
+
+1191(b) -- CramdownAfter completing all plan paymentsNarrower -- Section 523(a) exceptions apply
+
+This difference creates a powerful incentive for debtors to negotiate with creditors for consensual acceptance. An early, broad discharge is far preferable to waiting 3-5 years for a narrower discharge.
+
+Section 1192 -- The Cramdown Discharge
+
+Section 1192 governs the discharge in cramdown cases. After the debtor completes all payments required under the plan, the court grants a discharge of all debts provided for in the plan except those listed in Section 523(a).
+
+Debts that survive the cramdown discharge include:
+
+Fraud -- Section 523(a)(2): debts obtained through false pretenses, fraud, or false financial statements
+
+Willful injury -- Section 523(a)(6): debts for willful and malicious injury to person or property
+
+Domestic support -- Section 523(a)(5): alimony, child support, and other domestic support obligations
+
+Taxes -- Section 523(a)(1): certain tax debts
+
+Student loans -- Section 523(a)(8): educational loans (unless undue hardship is proven)
+
+DUI injuries -- Section 523(a)(9): death or personal injury caused by intoxicated driving
+
+This is a significant limitation. Under consensual confirmation, these exceptions do not apply to the Chapter 11 discharge. The cramdown path exposes the debtor to discharge litigation on these categories of debt.
+
+Completing Plan Payments
+
+For cramdown cases, the discharge does not enter until the debtor has completed all payments required by the plan. The plan period is 3 to 5 years. During this time, the debtor must:
+
+Make all scheduled payments to creditors
+
+Remain current on domestic support obligations
+
+Cooperate with the Subchapter V trustee's oversight
+
+File required reports (operating reports, tax returns)
+
+If the debtor fails to complete payments, the case may be dismissed or converted. In limited circumstances, a hardship discharge may be available -- though this remains an unsettled legal question in Subchapter V.
+
+The Discharge Incentive
+
+The discharge timing difference creates clear strategic incentives:
+
+For debtors: Negotiate aggressively for consensual acceptance. Even modest concessions to creditors may be worth the benefit of immediate, broad discharge.
+
+For creditors: The threat of cramdown gives creditors leverage to negotiate better terms, but rejecting the plan may ultimately result in the same or lesser recovery over a longer period.
+
+For the full cramdown analysis: section1192.org
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1192.org -- Detailed cramdown guide
+
+bankruptcyhardship.org -- Hardship discharge
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## 11 USC 1191 -- Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]
+Source: https://section1191.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+11 USC 1191 -- Subchapter V Plan Confirmation
+
+Consensual and nonconsensual plan confirmation in small business bankruptcy. No absolute priority rule.
+
+What Is Section 1191?
+
+Section 1191, added by the Small Business Reorganization Act of 2019, governs plan confirmation in Subchapter V cases. Two paths: consensual (1191(a)) and cramdown (1191(b)).
+
+1191(a) -- Consensual Confirmation
+
+All impaired classes accept. The absolute priority rule does not apply -- the debtor retains equity even if unsecured creditors are not paid in full.
+
+Key advantage: Small business owners keep ownership without paying unsecured creditors in full.
+
+1191(b) -- Cramdown
+
+If impaired classes reject, the court confirms if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly.
+
+Detailed cramdown guide at section1192.org →
+
+Discharge timing: 1191(a): discharge upon confirmation. 1191(b): discharge after all payments completed.
+
+Who Qualifies?
+
+Aggregate noncontingent liquidated debts not exceeding $7,500,000
+
+At least 50% from commercial or business activities
+
+Must be engaged in commercial or business activities
+
+1191(a) vs 1191(b) -- Key Differences
+
+The distinction between 1191(a) and 1191(b) is the most consequential decision point in a Subchapter V case. It affects discharge timing, creditor treatment, and post-confirmation obligations.
+
+Feature1191(a) Consensual1191(b) Cramdown
+
+Creditor consentAll impaired classes acceptOver creditor objection
+
+Discharge timingUpon confirmationAfter all plan payments completed (3-5 years)
+
+Disposable income testNot requiredMust commit all projected disposable income
+
+Plan modificationBy debtor only (Section 1193)By debtor, trustee, or UST
+
+Absolute priority ruleDoes not applyDoes not apply
+
+Discharge scopeStandard 1141(d) dischargeBroader -- similar to individual Ch. 13 (Section 1192)
+
+Best outcome for debtorImmediate discharge, clean slateViable even without creditor cooperation
+
+Why 1191(a) vs 1191(b) Matters: A Real-World Example
+
+Consider a small business debtor whose plan proposes to pay unsecured creditors 10% over 3 years. If all creditor classes vote to accept, the plan is confirmed under 1191(a) and the debtor receives an immediate discharge. The debtor continues operating the business free of pre-petition debt from day one of confirmation.
+
+If even one impaired class rejects, the debtor must confirm under 1191(b). This requires committing all projected disposable income for 3-5 years -- and the discharge is deferred until those payments are complete. The debtor operates under court supervision for the entire plan period.
+
+The ballot outcome can be the difference between immediate freedom and years of monitored payments. In practice, many Subchapter V cases are confirmed under 1191(b) because creditor engagement is often low.
+
+Explore This Site
+
+Consensual Plan
+
+1191(a) confirmation when all classes accept.
+Read more →
+
+Cramdown
+
+1191(b) nonconsensual confirmation requirements.
+Read more →
+
+Voting
+
+How creditor classes vote. Acceptance thresholds.
+Read more →
+
+Plan Content
+
+Section 1190 mandatory provisions.
+Read more →
+
+Discharge
+
+When discharge occurs. 1192 scope differences.
+Read more →
+
+Related Topics
+
+Section 1192 Cramdown
+Chapter 13 Plans
+hardship discharge in bankruptcy
+How to File Bankruptcy
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1192.org -- Subchapter V cramdown
+
+1328f.org -- Bankruptcy research platform
+
+step-by-step bankruptcy filing guide -- Step-by-step filing guide
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Can I Keep My Car?
+
+How each chapter treats vehicle loans differently
+
+keepmycarinbankruptcy.com →
+
+Can I Keep My House?
+
+Chapter 13 can cure mortgage arrears
+
+keepmyhouseinbankruptcy.com →
+
+How Much Does It Cost?
+
+Filing fees, attorney costs, and payment plans
+
+howmuchdoesbankruptcycost.com →
+
+Filed Before? Your Path
+
+Step-by-step guide for repeat filers
+
+filebankruptcyagain.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+canifileagain.org
+garnishedwages.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Plan Content Requirements -- Section 1190
+Source: https://section1191.org/plan-content.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+
+Plan Content Requirements -- Section 1190
+
+What must be included in a Subchapter V plan. Mandatory provisions and how they differ from traditional Chapter 11.
+
+Section 1190 -- Plan Provisions
+
+Section 1190, added by the SBRA, permits a Subchapter V plan to include provisions that are not available in traditional Chapter 11. This additional flexibility is one of the key reasons Congress created Subchapter V.
+
+Section 1190(1): The plan may include "a provision that the debtor shall retain possession and control of all or any portion of the property of the estate."
+
+This codifies the debtor-in-possession principle and makes clear that the small business debtor continues to operate the business during and after plan confirmation.
+
+Mandatory Plan Contents
+
+Designation of classes of claims and interests
+
+Specification of impaired classes -- which classes are not receiving full payment or having rights modified
+
+Treatment of each class -- what each class of claims will receive under the plan
+
+Same treatment for each claim in a class -- unless the holder agrees to less favorable treatment
+
+Adequate means of implementation -- how the plan will be funded (business income, asset sales, new loans, etc.)
+
+Payment of priority claims -- administrative expenses, tax claims, and domestic support obligations must be paid in full (with limited exceptions)
+
+No Disclosure Statement Required
+
+In traditional Chapter 11, the debtor must prepare and obtain court approval of a disclosure statement before soliciting votes. This adds months and thousands of dollars in legal fees. Subchapter V eliminates this requirement entirely.
+
+Under Section 1181(b), the disclosure statement requirements of Section 1125 do not apply. The debtor solicits votes based on the plan itself. The court may order additional information to be provided to creditors, but there is no formal disclosure statement process.
+
+Cost savings: Eliminating the disclosure statement saves an estimated $5,000 to $20,000 in legal fees and 2-4 months of time for most small business cases.
+
+Key Differences from Traditional Chapter 11
+
+FeatureTraditional Ch. 11Subchapter V
+
+Disclosure statementRequiredNot required
+
+Absolute priority ruleAppliesDoes not apply
+
+Who files planAnyone (after exclusivity expires)Only the debtor
+
+Plan deadlineNone (after exclusivity)90 days after order for relief
+
+U.S. Trustee quarterly feesRequiredNot required
+
+Creditor committeePresumedNot appointed unless court orders
+
+See also: Subchapter V vs. traditional Chapter 11 comparison
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1192.org -- Subchapter V cramdown
+
+chapter13plan.org -- Chapter 13 plan guide
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Plan Requirements
+Source: https://section1191.org/plan-requirements.html
+
+section1191.org
+
+1328f.com1328f.org
+
+Subchapter V -- Small Business Reorganization
+
+Free guide to Subchapter V of Chapter 11 bankruptcy. How small businesses can reorganize under the streamlined Small Business Reorganization Act.
+
+90-Day Filing Deadline
+
+The debtor must file a plan within 90 days of the order for relief. The court can extend this deadline for cause. This is much faster than traditional Chapter 11, which has no fixed plan deadline.
+
+Plan Contents
+
+The plan must provide for the submission of future earnings or income necessary for execution of the plan. It must designate classes of claims and interests. It must specify the treatment of each class. For nonconsensual plans, it must commit projected disposable income for 3-5 years.
+
+Feasibility
+
+The court must find that the debtor will be able to make the plan payments and comply with the plan. This is the same feasibility test as traditional Chapter 11 -- the plan must be more than wishful thinking.
+
+No Disclosure Statement
+
+Unlike traditional Chapter 11, Subchapter V does not require a disclosure statement. This saves significant time and expense. The plan itself contains the information creditors need to evaluate it.
+
+Property Distribution Requirements
+
+The plan must provide that each holder of a secured claim retains a lien securing the claim and receives deferred cash payments totaling at least the allowed amount of the claim, or receives the indubitable equivalent. For unsecured creditors, the plan must pay at least as much as creditors would receive in a Chapter 7 liquidation. This is the best interests of creditors test, and it applies in Subchapter V the same way it does in traditional Chapter 11.
+
+Plan Modification
+
+The debtor may modify the plan at any time before confirmation. After confirmation, the debtor, the trustee, or the holder of an allowed unsecured claim may request a modification if the debtor's financial circumstances change. This flexibility is one of the practical advantages of Subchapter V. If business conditions improve or deteriorate, the plan can adjust accordingly without starting from scratch.
+
+How Plan Requirements Differ from Traditional Chapter 11
+
+Traditional Chapter 11 plans can take months to draft, require extensive disclosure statements, and involve expensive solicitation processes. Subchapter V eliminates the disclosure statement, compresses the timeline to 90 days, and allows the debtor to retain control of the business without an official committee of unsecured creditors (which reduces costs further). For small businesses that need to reorganize quickly, these differences can mean the difference between survival and liquidation. For more on how Subchapter V plans are confirmed, see the consensual plan guide or the cramdown guide.
+
+Learn about Sub V basics
+
+Back to Sub V Guide
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Free Means Test Calculator -- meanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Plan Voting -- How Creditors Vote
+Source: https://section1191.org/voting.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+
+Subchapter V Plan Voting
+
+How classes of creditors vote on a Subchapter V plan. Acceptance thresholds, impairment, and strategic considerations.
+
+How Voting Works
+
+After the debtor files a plan, creditors in impaired classes are given the opportunity to vote. In Subchapter V, no disclosure statement is required -- the plan itself serves as the solicitation document.
+
+Each impaired class votes separately. A class accepts the plan if:
+
+Two-thirds in dollar amount of the claims that actually vote are in favor
+
+More than one-half in number of the claims that actually vote are in favor
+
+Both thresholds must be met for the class to accept. Only claims that actually cast ballots are counted -- non-voting creditors are excluded from the calculation.
+
+Impaired vs. Unimpaired Classes
+
+A class is impaired if the plan modifies any of its legal, equitable, or contractual rights. Common forms of impairment include:
+
+Reducing the amount owed
+
+Extending the payment timeline
+
+Reducing the interest rate
+
+Converting secured debt to unsecured
+
+A class is unimpaired if the plan leaves all rights unchanged (or cures defaults and reinstates the original terms). Unimpaired classes are conclusively presumed to have accepted the plan -- they do not vote.
+
+Strategic note: If only one class is impaired and that class accepts, the plan qualifies for consensual confirmation under 1191(a) with its broader discharge. Plan classification is therefore a critical strategic decision.
+
+Classification of Claims
+
+The debtor places claims into classes. Each class must contain claims that are "substantially similar" to each other. Common classifications include:
+
+Secured claims (often one class per secured creditor)
+
+Priority unsecured claims (taxes, domestic support)
+
+General unsecured claims
+
+Equity interests
+
+The debtor cannot "gerrymander" classes to manipulate the vote -- placing friendly creditors in one class and hostile creditors in another to ensure acceptance. Courts scrutinize classification for good faith.
+
+Impact of Voting on Discharge
+
+Voting outcomes directly affect the debtor's discharge:
+
+OutcomeConfirmation PathDischarge TimingDischarge Scope
+
+All impaired classes accept1191(a) consensualUpon confirmationBroad (standard Ch. 11)
+
+Any impaired class rejects1191(b) cramdownAfter all paymentsNarrower -- 523(a) applies
+
+Critical: A single rejecting class forces the debtor into cramdown, delaying discharge by 3-5 years and narrowing its scope. This makes creditor negotiation essential before the voting deadline.
+
+See also: Consensual confirmation | Cramdown requirements
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1192.org -- Cramdown details
+
+chapter13plan.org -- Chapter 13 plan voting
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Who Qualifies for Subchapter V?
+Source: https://section1191.org/who-qualifies.html
+
+section1191.org
+
+1328f.com1328f.org
+
+Subchapter V -- Small Business Reorganization
+
+Free guide to Subchapter V of Chapter 11 bankruptcy. How small businesses can reorganize under the streamlined Small Business Reorganization Act.
+
+Debt Limit
+
+Aggregate noncontingent, liquidated debts must not exceed $7.5 million (as extended by Congress). This includes both secured and unsecured debts. Contingent and unliquidated debts are excluded from the calculation.
+
+Business Activity Requirement
+
+At least 50% of debts must arise from the debtor's commercial or business activities. This excludes primarily consumer debtors. A sole proprietor with mostly business debts qualifies. A wage earner with mostly personal debts does not.
+
+Exclusions
+
+Single asset real estate debtors are excluded. Entities whose primary activity is the business of owning single asset real estate cannot use Subchapter V. Affiliates of publicly traded companies are also excluded.
+
+Who Can File
+
+Individuals, partnerships, LLCs, and corporations can all file under Subchapter V. The debtor elects Sub V at the time of filing by checking the appropriate box on the petition.
+
+The 50% Business Debt Test
+
+The 50% requirement is calculated based on noncontingent, liquidated debts as of the petition date. For a sole proprietor who operates a cleaning company, debts related to equipment leases, vendor accounts, and business credit cards count as business debts. A personal mortgage, medical bills, and personal credit card debt count as consumer debts. If the business debts are at least 50% of total qualifying debts, the sole proprietor can elect Subchapter V. Courts have taken a practical approach to this calculation, and debts that arise partly from business and partly from personal use are generally allocated based on their primary purpose.
+
+When to Choose Subchapter V Over Chapter 13
+
+Business owners with debts exceeding the Chapter 13 limit (currently $2,750,000 in secured and unsecured debts combined) may find Subchapter V to be their only reorganization option. Even below that threshold, Subchapter V offers advantages: no absolute priority rule (the debtor can retain equity without paying unsecured creditors in full), a dedicated Subchapter V trustee who acts as a facilitator rather than a liquidator, and no creditors' committee to negotiate with. The 90-day plan deadline also forces faster resolution than Chapter 13's often extended confirmation process.
+
+Debt Limit History
+
+The Small Business Reorganization Act of 2019 originally set the Subchapter V debt limit at $2,725,625. The CARES Act of 2020 temporarily raised it to $7.5 million to help businesses affected by the pandemic. Congress has extended this higher limit multiple times. As of 2024, the limit remains at $7.5 million. Any future changes to this threshold will affect who qualifies. For information on how Subchapter V plans are discharged, see the Section 1192 discharge guide.
+
+Learn about Sub V discharge
+
+Section 1192 Guide
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.

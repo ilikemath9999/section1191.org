@@ -1,15 +1,23 @@
-# section1191.org
+# 11 USC 1191 -- Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]
+> 11 USC 1191 governs Subchapter V small business plan confirmation. 1191(a) consensual vs 1191(b) cramdown -- key differences in discharge ti...
 
-> Guide to Section 1191 -- consensual and nonconsensual plan confirmation in Subchapter V.
+## About
+section1191.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-section1191.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
-
-## Pages
-
-- https://section1191.org/ -- Subchapter V plan confirmation overview
-- https://section1191.org/plan-requirements.html -- Plan contents and requirements
-- https://section1191.org/who-qualifies.html -- Eligibility for Subchapter V
+## Key Pages
+- Section 1191(a) -- Consensual Subchapter V Plan Confirmation: https://section1191.org/consensual-plan.html
+- Section 1191(b) Cramdown -- Nonconsensual Subchapter V Plan: https://section1191.org/cramdown.html
+- Subchapter V Discharge -- Section 1192 Timing and Scope: https://section1191.org/discharge.html
+- 11 USC 1191 -- Subchapter V Plan Confirmation: 1191(a) vs 1191(b): https://section1191.org/
+- Subchapter V Plan Content Requirements -- Section 1190: https://section1191.org/plan-content.html
+- Subchapter V Plan Requirements: https://section1191.org/plan-requirements.html
+- Subchapter V Plan Voting -- How Creditors Vote: https://section1191.org/voting.html
+- Who Qualifies for Subchapter V?: https://section1191.org/who-qualifies.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
