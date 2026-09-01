@@ -10,6 +10,7 @@ section1191.org is part of the Open Bankruptcy Project (openbankruptcyproject.or
 - Section 1191(a) - Consensual Subchapter V Plan Confirmation: https://section1191.org/consensual-plan.html
 - Section 1191(b) Cramdown - Nonconsensual Subchapter V Plan: https://section1191.org/cramdown.html
 - Subchapter V Discharge - Section 1192 Timing and Scope: https://section1191.org/discharge.html
+- After a Nonconsensual Confirmation - What 1191(b) Costs the Debtor: https://section1191.org/after-confirmation.html
 - 11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b): https://section1191.org/
 - Subchapter V Plan Content Requirements - Section 1190: https://section1191.org/plan-content.html
 - Subchapter V Plan Requirements: https://section1191.org/plan-requirements.html
